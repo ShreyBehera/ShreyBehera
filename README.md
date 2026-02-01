@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Born in '03. From Sambalpur, Odisha, India.
+Currently pursuing BS-MS at the Indian Institute of Science Education and Research, Mohali.
+
 <!--
 **ShreyBehera/ShreyBehera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
